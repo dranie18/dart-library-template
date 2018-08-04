@@ -1,0 +1,22 @@
+name: LIBRARY_NAME
+version: 1.2.3
+description: >-
+  Describe the library, what it does and details.
+
+author: FULL NAME <EMAIL@DOMAIN>
+
+homepage: https://YOUR_SITE/
+
+documentation: https://LIBRARY_DOC_URL/
+
+environment:
+  sdk: '>= 1.19.0 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
+  test: '>=0.6.0 <0.12.0'
+
+dependency_overrides:
+
+executables:
